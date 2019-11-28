@@ -1,4 +1,4 @@
-g as _
+import threading as_
 import time
 import _thread as a
 class banco():
